@@ -1,0 +1,17 @@
+*.rbxm
+*.rbxmx
+*.rbxl
+*.rbxlx
+
+*.rbxlx.lock
+*.rbxl.lock
+
+/Packages
+/DevPackages
+
+/examples/**/Packages
+/examples/**/ServerPackages
+
+/sourcemap.json
+
+/build
